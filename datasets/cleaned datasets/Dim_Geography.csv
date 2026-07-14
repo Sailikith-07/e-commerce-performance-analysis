@@ -1,0 +1,226 @@
+location_code,region,State
+0,north,Delhi
+1,south,Karnataka
+2,south,Tamil Nadu
+3,west,Maharashtra
+4,west,Gujarat
+5,south,Karnataka
+6,south,Tamil Nadu
+7,north,Haryana
+8,east,West Bengal
+9,west,Maharashtra
+10,south,Tamil Nadu
+11,east,Jharkhand
+12,central,Madhya Pradesh
+13,east,Bihar
+14,east,Odisha
+15,south,Andhra Pradesh
+16,east,West Bengal
+17,east,Bihar
+18,west,Maharashtra
+19,central,Chhattisgarh
+20,central,Madhya Pradesh
+21,north,Punjab
+22,north,Uttar Pradesh
+23,west,Goa
+24,central,Madhya Pradesh
+25,east,Bihar
+26,central,Madhya Pradesh
+27,south,Andhra Pradesh
+28,central,Madhya Pradesh
+29,north,Punjab
+30,south,Tamil Nadu
+31,central,Chhattisgarh
+32,central,Madhya Pradesh
+33,south,Karnataka
+34,west,Gujarat
+35,east,Jharkhand
+36,east,West Bengal
+37,west,Gujarat
+38,north,Uttar Pradesh
+39,west,Maharashtra
+40,south,Telangana
+41,west,Goa
+42,north,Uttar Pradesh
+43,north,Haryana
+44,central,Madhya Pradesh
+45,west,Maharashtra
+46,east,Odisha
+47,central,Chhattisgarh
+48,west,Maharashtra
+49,south,Karnataka
+50,west,Goa
+51,south,Andhra Pradesh
+52,west,Gujarat
+53,east,Bihar
+54,south,Tamil Nadu
+55,east,Jharkhand
+56,east,West Bengal
+57,central,Chhattisgarh
+58,west,Gujarat
+59,north,Haryana
+60,west,Maharashtra
+61,central,Chhattisgarh
+62,south,Tamil Nadu
+63,west,Maharashtra
+64,north,Delhi
+65,south,Karnataka
+66,north,Uttar Pradesh
+67,south,Andhra Pradesh
+68,north,Delhi
+69,north,Punjab
+70,west,Gujarat
+71,east,Jharkhand
+72,south,Telangana
+73,east,Bihar
+74,east,Odisha
+75,west,Maharashtra
+76,west,Gujarat
+77,west,Goa
+78,east,Odisha
+79,west,Gujarat
+80,west,Goa
+81,central,Chhattisgarh
+82,central,Madhya Pradesh
+83,west,Goa
+84,east,West Bengal
+85,south,Karnataka
+86,central,Madhya Pradesh
+87,north,Haryana
+88,central,Madhya Pradesh
+89,central,Chhattisgarh
+90,central,Madhya Pradesh
+91,west,Gujarat
+92,central,Madhya Pradesh
+93,central,Chhattisgarh
+94,north,Uttar Pradesh
+95,central,Chhattisgarh
+96,west,Maharashtra
+97,east,Bihar
+98,east,Odisha
+99,north,Haryana
+100,south,Telangana
+101,central,Chhattisgarh
+102,central,Madhya Pradesh
+103,south,Andhra Pradesh
+104,south,Telangana
+105,central,Chhattisgarh
+106,north,Uttar Pradesh
+107,east,Jharkhand
+108,east,West Bengal
+109,south,Karnataka
+110,south,Tamil Nadu
+111,west,Maharashtra
+112,central,Madhya Pradesh
+113,west,Goa
+114,west,Maharashtra
+115,central,Chhattisgarh
+116,south,Telangana
+117,west,Maharashtra
+118,north,Uttar Pradesh
+119,central,Chhattisgarh
+120,west,Maharashtra
+121,south,Karnataka
+122,west,Goa
+123,east,Jharkhand
+124,west,Gujarat
+125,central,Chhattisgarh
+126,north,Uttar Pradesh
+127,north,Haryana
+128,west,Goa
+129,east,Bihar
+130,east,Odisha
+131,south,Andhra Pradesh
+132,east,West Bengal
+133,north,Punjab
+134,central,Madhya Pradesh
+135,north,Haryana
+136,central,Madhya Pradesh
+137,east,Bihar
+138,east,Odisha
+139,central,Chhattisgarh
+140,west,Goa
+141,north,Punjab
+142,south,Tamil Nadu
+143,east,Jharkhand
+144,east,West Bengal
+145,north,Punjab
+146,east,Odisha
+147,south,Andhra Pradesh
+148,south,Telangana
+149,south,Karnataka
+150,east,Odisha
+151,south,Andhra Pradesh
+152,east,West Bengal
+153,central,Chhattisgarh
+154,south,Tamil Nadu
+155,east,Jharkhand
+156,central,Madhya Pradesh
+157,east,Bihar
+158,east,Odisha
+159,west,Maharashtra
+160,west,Gujarat
+161,west,Goa
+162,south,Tamil Nadu
+163,central,Chhattisgarh
+164,east,West Bengal
+165,north,Punjab
+166,north,Uttar Pradesh
+167,north,Haryana
+168,south,Telangana
+169,south,Karnataka
+170,west,Goa
+171,south,Andhra Pradesh
+172,central,Madhya Pradesh
+173,west,Goa
+174,west,Maharashtra
+175,east,Jharkhand
+176,central,Madhya Pradesh
+177,west,Maharashtra
+178,north,Uttar Pradesh
+179,south,Andhra Pradesh
+180,south,Telangana
+181,central,Chhattisgarh
+182,west,Goa
+183,central,Chhattisgarh
+184,west,Gujarat
+185,east,Bihar
+186,north,Uttar Pradesh
+187,south,Andhra Pradesh
+188,east,West Bengal
+189,west,Maharashtra
+190,central,Madhya Pradesh
+191,west,Goa
+192,west,Maharashtra
+193,west,Gujarat
+194,north,Uttar Pradesh
+195,south,Andhra Pradesh
+196,east,West Bengal
+197,south,Karnataka
+198,west,Maharashtra
+199,central,Chhattisgarh
+200,central,Madhya Pradesh
+201,south,Karnataka
+202,west,Gujarat
+203,south,Andhra Pradesh
+204,north,Delhi
+205,east,Bihar
+206,north,Uttar Pradesh
+207,south,Andhra Pradesh
+208,north,Delhi
+209,west,Goa
+210,west,Maharashtra
+211,south,Andhra Pradesh
+212,west,Goa
+213,west,Maharashtra
+214,central,Madhya Pradesh
+215,east,Jharkhand
+216,south,Telangana
+217,west,Gujarat
+218,east,Odisha
+219,north,Haryana
+220,south,Telangana
+221,west,Goa
+222,north,Uttar Pradesh
+223,central,Chhattisgarh
+224,central,Madhya Pradesh

@@ -1,0 +1,487 @@
+delivery_partner,vehicle_type,package_type,partner_key
+delhivery,bike,automobile parts,PRTN-001
+xpressbees,ev van,cosmetics,PRTN-002
+shadowfax,truck,groceries,PRTN-003
+dhl,ev van,electronics,PRTN-004
+dhl,van,clothing,PRTN-005
+amazon logistics,ev bike,documents,PRTN-006
+delhivery,scooter,groceries,PRTN-007
+xpressbees,van,fragile items,PRTN-008
+blue dart,van,clothing,PRTN-009
+delhivery,truck,pharmacy,PRTN-010
+fedex,scooter,groceries,PRTN-011
+ecom express,truck,electronics,PRTN-012
+xpressbees,ev van,pharmacy,PRTN-013
+xpressbees,bike,cosmetics,PRTN-014
+xpressbees,ev bike,automobile parts,PRTN-015
+amazon logistics,ev van,furniture,PRTN-016
+fedex,bike,documents,PRTN-017
+blue dart,ev bike,fragile items,PRTN-018
+amazon logistics,van,documents,PRTN-019
+fedex,truck,cosmetics,PRTN-020
+fedex,scooter,automobile parts,PRTN-021
+dhl,scooter,electronics,PRTN-022
+blue dart,scooter,automobile parts,PRTN-023
+ecom express,bike,clothing,PRTN-024
+amazon logistics,van,furniture,PRTN-025
+shadowfax,ev van,documents,PRTN-026
+dhl,ev bike,clothing,PRTN-027
+amazon logistics,scooter,cosmetics,PRTN-028
+fedex,truck,furniture,PRTN-029
+dhl,bike,furniture,PRTN-030
+fedex,bike,furniture,PRTN-031
+ekart,truck,cosmetics,PRTN-032
+delhivery,scooter,automobile parts,PRTN-033
+fedex,ev bike,furniture,PRTN-034
+amazon logistics,bike,clothing,PRTN-035
+delhivery,bike,documents,PRTN-036
+amazon logistics,ev bike,furniture,PRTN-037
+amazon logistics,scooter,electronics,PRTN-038
+ekart,bike,documents,PRTN-039
+shadowfax,ev bike,clothing,PRTN-040
+blue dart,ev bike,automobile parts,PRTN-041
+xpressbees,ev van,groceries,PRTN-042
+xpressbees,truck,fragile items,PRTN-043
+dhl,van,furniture,PRTN-044
+delhivery,ev bike,furniture,PRTN-045
+ecom express,ev bike,automobile parts,PRTN-046
+ecom express,scooter,documents,PRTN-047
+xpressbees,ev van,documents,PRTN-048
+amazon logistics,ev bike,pharmacy,PRTN-049
+xpressbees,ev van,electronics,PRTN-050
+blue dart,truck,clothing,PRTN-051
+dhl,van,electronics,PRTN-052
+fedex,ev van,cosmetics,PRTN-053
+fedex,truck,groceries,PRTN-054
+delhivery,ev bike,electronics,PRTN-055
+blue dart,scooter,pharmacy,PRTN-056
+xpressbees,scooter,cosmetics,PRTN-057
+xpressbees,bike,clothing,PRTN-058
+ecom express,truck,fragile items,PRTN-059
+xpressbees,ev bike,clothing,PRTN-060
+dhl,ev van,pharmacy,PRTN-061
+ecom express,bike,pharmacy,PRTN-062
+dhl,bike,clothing,PRTN-063
+ekart,ev bike,groceries,PRTN-064
+ecom express,scooter,electronics,PRTN-065
+delhivery,bike,cosmetics,PRTN-066
+amazon logistics,truck,furniture,PRTN-067
+fedex,ev van,documents,PRTN-068
+blue dart,van,documents,PRTN-069
+xpressbees,truck,clothing,PRTN-070
+fedex,ev van,furniture,PRTN-071
+ekart,van,clothing,PRTN-072
+ekart,scooter,fragile items,PRTN-073
+shadowfax,ev bike,documents,PRTN-074
+xpressbees,bike,pharmacy,PRTN-075
+ecom express,scooter,clothing,PRTN-076
+dhl,bike,documents,PRTN-077
+amazon logistics,scooter,furniture,PRTN-078
+shadowfax,van,electronics,PRTN-079
+xpressbees,truck,electronics,PRTN-080
+delhivery,scooter,furniture,PRTN-081
+ekart,van,furniture,PRTN-082
+xpressbees,van,documents,PRTN-083
+amazon logistics,bike,groceries,PRTN-084
+dhl,ev van,groceries,PRTN-085
+amazon logistics,ev van,cosmetics,PRTN-086
+dhl,bike,fragile items,PRTN-087
+ecom express,van,clothing,PRTN-088
+ekart,bike,groceries,PRTN-089
+shadowfax,van,cosmetics,PRTN-090
+blue dart,truck,groceries,PRTN-091
+amazon logistics,ev bike,groceries,PRTN-092
+blue dart,scooter,furniture,PRTN-093
+amazon logistics,van,electronics,PRTN-094
+delhivery,ev van,groceries,PRTN-095
+amazon logistics,ev bike,automobile parts,PRTN-096
+amazon logistics,truck,pharmacy,PRTN-097
+shadowfax,bike,furniture,PRTN-098
+fedex,scooter,furniture,PRTN-099
+xpressbees,bike,automobile parts,PRTN-100
+ekart,ev bike,automobile parts,PRTN-101
+amazon logistics,ev van,groceries,PRTN-102
+shadowfax,bike,automobile parts,PRTN-103
+fedex,scooter,electronics,PRTN-104
+fedex,van,documents,PRTN-105
+delhivery,van,cosmetics,PRTN-106
+blue dart,bike,pharmacy,PRTN-107
+ekart,truck,furniture,PRTN-108
+blue dart,bike,documents,PRTN-109
+dhl,truck,furniture,PRTN-110
+fedex,ev van,groceries,PRTN-111
+amazon logistics,truck,fragile items,PRTN-112
+shadowfax,bike,cosmetics,PRTN-113
+delhivery,scooter,clothing,PRTN-114
+xpressbees,scooter,automobile parts,PRTN-115
+shadowfax,ev van,pharmacy,PRTN-116
+shadowfax,ev bike,groceries,PRTN-117
+shadowfax,van,furniture,PRTN-118
+fedex,truck,clothing,PRTN-119
+delhivery,van,electronics,PRTN-120
+shadowfax,van,groceries,PRTN-121
+ekart,scooter,groceries,PRTN-122
+delhivery,ev van,automobile parts,PRTN-123
+dhl,ev van,automobile parts,PRTN-124
+dhl,scooter,furniture,PRTN-125
+ecom express,van,electronics,PRTN-126
+blue dart,scooter,cosmetics,PRTN-127
+dhl,scooter,automobile parts,PRTN-128
+ecom express,van,automobile parts,PRTN-129
+amazon logistics,bike,pharmacy,PRTN-130
+delhivery,truck,electronics,PRTN-131
+ekart,truck,documents,PRTN-132
+amazon logistics,truck,cosmetics,PRTN-133
+delhivery,van,pharmacy,PRTN-134
+ekart,truck,groceries,PRTN-135
+ecom express,scooter,cosmetics,PRTN-136
+ekart,van,groceries,PRTN-137
+dhl,truck,clothing,PRTN-138
+blue dart,van,groceries,PRTN-139
+fedex,van,electronics,PRTN-140
+shadowfax,scooter,clothing,PRTN-141
+dhl,ev bike,documents,PRTN-142
+ekart,scooter,documents,PRTN-143
+blue dart,ev bike,cosmetics,PRTN-144
+dhl,bike,groceries,PRTN-145
+delhivery,ev bike,documents,PRTN-146
+xpressbees,scooter,groceries,PRTN-147
+xpressbees,bike,electronics,PRTN-148
+xpressbees,truck,groceries,PRTN-149
+xpressbees,ev bike,groceries,PRTN-150
+ecom express,van,fragile items,PRTN-151
+fedex,scooter,cosmetics,PRTN-152
+ecom express,ev bike,electronics,PRTN-153
+blue dart,truck,pharmacy,PRTN-154
+fedex,van,automobile parts,PRTN-155
+xpressbees,bike,fragile items,PRTN-156
+fedex,truck,documents,PRTN-157
+fedex,van,fragile items,PRTN-158
+blue dart,bike,fragile items,PRTN-159
+dhl,scooter,groceries,PRTN-160
+ekart,ev bike,fragile items,PRTN-161
+ekart,ev bike,pharmacy,PRTN-162
+xpressbees,van,cosmetics,PRTN-163
+shadowfax,ev bike,cosmetics,PRTN-164
+shadowfax,ev bike,fragile items,PRTN-165
+dhl,truck,automobile parts,PRTN-166
+ecom express,scooter,fragile items,PRTN-167
+delhivery,van,groceries,PRTN-168
+dhl,ev bike,pharmacy,PRTN-169
+dhl,truck,fragile items,PRTN-170
+ecom express,ev bike,groceries,PRTN-171
+dhl,truck,documents,PRTN-172
+ecom express,truck,cosmetics,PRTN-173
+xpressbees,van,automobile parts,PRTN-174
+fedex,bike,clothing,PRTN-175
+ekart,bike,automobile parts,PRTN-176
+ekart,van,electronics,PRTN-177
+amazon logistics,van,clothing,PRTN-178
+ekart,van,automobile parts,PRTN-179
+xpressbees,ev bike,cosmetics,PRTN-180
+amazon logistics,van,pharmacy,PRTN-181
+fedex,ev van,pharmacy,PRTN-182
+xpressbees,van,groceries,PRTN-183
+ekart,ev van,automobile parts,PRTN-184
+delhivery,ev van,clothing,PRTN-185
+delhivery,van,documents,PRTN-186
+fedex,ev bike,clothing,PRTN-187
+blue dart,ev van,furniture,PRTN-188
+fedex,ev bike,cosmetics,PRTN-189
+blue dart,scooter,clothing,PRTN-190
+xpressbees,ev van,automobile parts,PRTN-191
+ekart,truck,clothing,PRTN-192
+amazon logistics,ev bike,cosmetics,PRTN-193
+fedex,bike,fragile items,PRTN-194
+fedex,ev van,automobile parts,PRTN-195
+amazon logistics,scooter,fragile items,PRTN-196
+delhivery,ev van,electronics,PRTN-197
+xpressbees,van,pharmacy,PRTN-198
+fedex,ev van,fragile items,PRTN-199
+xpressbees,truck,furniture,PRTN-200
+shadowfax,bike,groceries,PRTN-201
+dhl,scooter,documents,PRTN-202
+ekart,ev van,furniture,PRTN-203
+shadowfax,scooter,automobile parts,PRTN-204
+delhivery,truck,fragile items,PRTN-205
+shadowfax,ev van,groceries,PRTN-206
+delhivery,ev van,cosmetics,PRTN-207
+amazon logistics,truck,documents,PRTN-208
+delhivery,ev bike,automobile parts,PRTN-209
+blue dart,truck,cosmetics,PRTN-210
+fedex,bike,pharmacy,PRTN-211
+blue dart,bike,furniture,PRTN-212
+ekart,bike,furniture,PRTN-213
+shadowfax,van,fragile items,PRTN-214
+delhivery,truck,documents,PRTN-215
+blue dart,scooter,groceries,PRTN-216
+ekart,scooter,pharmacy,PRTN-217
+ecom express,ev van,cosmetics,PRTN-218
+ecom express,ev van,fragile items,PRTN-219
+fedex,truck,fragile items,PRTN-220
+dhl,truck,groceries,PRTN-221
+shadowfax,truck,documents,PRTN-222
+shadowfax,ev van,electronics,PRTN-223
+ekart,bike,pharmacy,PRTN-224
+dhl,truck,cosmetics,PRTN-225
+fedex,ev bike,fragile items,PRTN-226
+ekart,truck,pharmacy,PRTN-227
+fedex,van,pharmacy,PRTN-228
+fedex,van,furniture,PRTN-229
+ecom express,ev bike,documents,PRTN-230
+blue dart,van,pharmacy,PRTN-231
+ecom express,van,pharmacy,PRTN-232
+ekart,scooter,clothing,PRTN-233
+fedex,van,cosmetics,PRTN-234
+amazon logistics,bike,electronics,PRTN-235
+dhl,ev van,clothing,PRTN-236
+amazon logistics,scooter,clothing,PRTN-237
+ecom express,bike,cosmetics,PRTN-238
+blue dart,van,electronics,PRTN-239
+fedex,scooter,pharmacy,PRTN-240
+ekart,ev van,clothing,PRTN-241
+shadowfax,bike,electronics,PRTN-242
+xpressbees,bike,furniture,PRTN-243
+blue dart,bike,clothing,PRTN-244
+ekart,ev bike,clothing,PRTN-245
+xpressbees,scooter,furniture,PRTN-246
+ecom express,truck,groceries,PRTN-247
+shadowfax,ev bike,pharmacy,PRTN-248
+ecom express,scooter,pharmacy,PRTN-249
+ekart,ev van,pharmacy,PRTN-250
+fedex,ev van,clothing,PRTN-251
+amazon logistics,ev bike,electronics,PRTN-252
+ecom express,ev van,clothing,PRTN-253
+ecom express,scooter,automobile parts,PRTN-254
+shadowfax,truck,furniture,PRTN-255
+ecom express,ev van,documents,PRTN-256
+ecom express,ev van,pharmacy,PRTN-257
+delhivery,truck,clothing,PRTN-258
+dhl,truck,electronics,PRTN-259
+delhivery,van,furniture,PRTN-260
+amazon logistics,bike,cosmetics,PRTN-261
+ekart,van,fragile items,PRTN-262
+fedex,bike,electronics,PRTN-263
+xpressbees,ev van,clothing,PRTN-264
+shadowfax,ev bike,furniture,PRTN-265
+dhl,scooter,pharmacy,PRTN-266
+dhl,scooter,cosmetics,PRTN-267
+amazon logistics,ev van,electronics,PRTN-268
+dhl,bike,cosmetics,PRTN-269
+ecom express,bike,documents,PRTN-270
+delhivery,scooter,documents,PRTN-271
+blue dart,ev bike,furniture,PRTN-272
+blue dart,truck,fragile items,PRTN-273
+fedex,ev bike,documents,PRTN-274
+ecom express,bike,groceries,PRTN-275
+delhivery,ev bike,groceries,PRTN-276
+blue dart,ev bike,clothing,PRTN-277
+ekart,bike,fragile items,PRTN-278
+ekart,truck,electronics,PRTN-279
+delhivery,truck,groceries,PRTN-280
+blue dart,ev van,groceries,PRTN-281
+ekart,van,documents,PRTN-282
+dhl,scooter,fragile items,PRTN-283
+delhivery,ev bike,pharmacy,PRTN-284
+delhivery,bike,fragile items,PRTN-285
+xpressbees,bike,documents,PRTN-286
+blue dart,truck,furniture,PRTN-287
+ecom express,scooter,groceries,PRTN-288
+delhivery,bike,pharmacy,PRTN-289
+ecom express,bike,fragile items,PRTN-290
+blue dart,ev van,clothing,PRTN-291
+shadowfax,scooter,electronics,PRTN-292
+fedex,van,clothing,PRTN-293
+ekart,ev van,electronics,PRTN-294
+delhivery,van,fragile items,PRTN-295
+shadowfax,truck,clothing,PRTN-296
+fedex,ev bike,pharmacy,PRTN-297
+blue dart,ev bike,groceries,PRTN-298
+amazon logistics,truck,automobile parts,PRTN-299
+blue dart,ev van,automobile parts,PRTN-300
+xpressbees,scooter,pharmacy,PRTN-301
+ecom express,truck,documents,PRTN-302
+blue dart,ev van,pharmacy,PRTN-303
+shadowfax,truck,fragile items,PRTN-304
+blue dart,bike,electronics,PRTN-305
+xpressbees,truck,automobile parts,PRTN-306
+dhl,truck,pharmacy,PRTN-307
+amazon logistics,bike,automobile parts,PRTN-308
+amazon logistics,ev van,fragile items,PRTN-309
+amazon logistics,truck,clothing,PRTN-310
+shadowfax,bike,fragile items,PRTN-311
+xpressbees,truck,cosmetics,PRTN-312
+ekart,truck,automobile parts,PRTN-313
+blue dart,bike,cosmetics,PRTN-314
+ecom express,ev bike,clothing,PRTN-315
+blue dart,truck,documents,PRTN-316
+shadowfax,ev van,automobile parts,PRTN-317
+amazon logistics,ev bike,clothing,PRTN-318
+fedex,truck,pharmacy,PRTN-319
+ekart,scooter,furniture,PRTN-320
+ekart,scooter,automobile parts,PRTN-321
+ecom express,bike,electronics,PRTN-322
+amazon logistics,bike,documents,PRTN-323
+amazon logistics,bike,furniture,PRTN-324
+blue dart,ev van,cosmetics,PRTN-325
+ecom express,van,furniture,PRTN-326
+shadowfax,truck,pharmacy,PRTN-327
+blue dart,ev bike,documents,PRTN-328
+blue dart,ev bike,pharmacy,PRTN-329
+xpressbees,truck,pharmacy,PRTN-330
+delhivery,ev van,furniture,PRTN-331
+blue dart,scooter,documents,PRTN-332
+delhivery,ev bike,cosmetics,PRTN-333
+dhl,van,documents,PRTN-334
+dhl,ev bike,electronics,PRTN-335
+ekart,ev bike,documents,PRTN-336
+ecom express,ev van,groceries,PRTN-337
+fedex,ev van,electronics,PRTN-338
+xpressbees,ev bike,documents,PRTN-339
+shadowfax,van,pharmacy,PRTN-340
+ecom express,truck,pharmacy,PRTN-341
+dhl,ev bike,fragile items,PRTN-342
+delhivery,scooter,cosmetics,PRTN-343
+amazon logistics,ev bike,fragile items,PRTN-344
+amazon logistics,ev van,documents,PRTN-345
+ekart,ev bike,cosmetics,PRTN-346
+ekart,scooter,electronics,PRTN-347
+shadowfax,scooter,furniture,PRTN-348
+shadowfax,van,documents,PRTN-349
+xpressbees,van,clothing,PRTN-350
+fedex,ev bike,electronics,PRTN-351
+ecom express,bike,furniture,PRTN-352
+amazon logistics,truck,electronics,PRTN-353
+dhl,ev bike,automobile parts,PRTN-354
+shadowfax,ev bike,automobile parts,PRTN-355
+delhivery,scooter,fragile items,PRTN-356
+blue dart,ev van,documents,PRTN-357
+dhl,bike,pharmacy,PRTN-358
+dhl,ev van,fragile items,PRTN-359
+fedex,scooter,fragile items,PRTN-360
+xpressbees,ev bike,furniture,PRTN-361
+dhl,bike,automobile parts,PRTN-362
+xpressbees,scooter,fragile items,PRTN-363
+ekart,ev van,documents,PRTN-364
+amazon logistics,van,automobile parts,PRTN-365
+xpressbees,ev bike,pharmacy,PRTN-366
+ekart,ev bike,electronics,PRTN-367
+ecom express,ev bike,furniture,PRTN-368
+amazon logistics,ev van,pharmacy,PRTN-369
+fedex,ev bike,automobile parts,PRTN-370
+fedex,bike,automobile parts,PRTN-371
+delhivery,bike,furniture,PRTN-372
+blue dart,van,furniture,PRTN-373
+shadowfax,bike,clothing,PRTN-374
+fedex,scooter,documents,PRTN-375
+ecom express,ev bike,pharmacy,PRTN-376
+shadowfax,truck,cosmetics,PRTN-377
+dhl,ev bike,cosmetics,PRTN-378
+shadowfax,scooter,documents,PRTN-379
+ecom express,scooter,furniture,PRTN-380
+ecom express,truck,furniture,PRTN-381
+ekart,ev van,fragile items,PRTN-382
+xpressbees,ev van,furniture,PRTN-383
+shadowfax,scooter,cosmetics,PRTN-384
+blue dart,bike,automobile parts,PRTN-385
+blue dart,truck,automobile parts,PRTN-386
+xpressbees,scooter,electronics,PRTN-387
+shadowfax,bike,pharmacy,PRTN-388
+blue dart,van,fragile items,PRTN-389
+amazon logistics,van,fragile items,PRTN-390
+delhivery,van,clothing,PRTN-391
+blue dart,van,cosmetics,PRTN-392
+shadowfax,ev van,clothing,PRTN-393
+ekart,bike,clothing,PRTN-394
+dhl,bike,electronics,PRTN-395
+ekart,scooter,cosmetics,PRTN-396
+blue dart,bike,groceries,PRTN-397
+fedex,scooter,clothing,PRTN-398
+dhl,van,pharmacy,PRTN-399
+xpressbees,scooter,documents,PRTN-400
+shadowfax,truck,electronics,PRTN-401
+delhivery,scooter,electronics,PRTN-402
+xpressbees,truck,documents,PRTN-403
+amazon logistics,van,cosmetics,PRTN-404
+shadowfax,bike,documents,PRTN-405
+xpressbees,van,furniture,PRTN-406
+ecom express,truck,clothing,PRTN-407
+ecom express,ev van,electronics,PRTN-408
+delhivery,ev van,documents,PRTN-409
+shadowfax,scooter,pharmacy,PRTN-410
+ecom express,van,groceries,PRTN-411
+ecom express,ev bike,fragile items,PRTN-412
+delhivery,bike,electronics,PRTN-413
+amazon logistics,scooter,pharmacy,PRTN-414
+xpressbees,bike,groceries,PRTN-415
+fedex,van,groceries,PRTN-416
+delhivery,truck,automobile parts,PRTN-417
+delhivery,bike,groceries,PRTN-418
+dhl,van,fragile items,PRTN-419
+xpressbees,ev bike,fragile items,PRTN-420
+fedex,bike,groceries,PRTN-421
+ekart,bike,cosmetics,PRTN-422
+shadowfax,ev van,fragile items,PRTN-423
+ekart,ev van,cosmetics,PRTN-424
+dhl,ev van,documents,PRTN-425
+blue dart,scooter,electronics,PRTN-426
+fedex,bike,cosmetics,PRTN-427
+fedex,ev bike,groceries,PRTN-428
+blue dart,ev van,electronics,PRTN-429
+blue dart,scooter,fragile items,PRTN-430
+ekart,bike,electronics,PRTN-431
+ecom express,truck,automobile parts,PRTN-432
+delhivery,bike,clothing,PRTN-433
+amazon logistics,bike,fragile items,PRTN-434
+delhivery,ev van,fragile items,PRTN-435
+dhl,ev bike,groceries,PRTN-436
+delhivery,ev bike,clothing,PRTN-437
+fedex,truck,automobile parts,PRTN-438
+amazon logistics,ev van,automobile parts,PRTN-439
+shadowfax,van,automobile parts,PRTN-440
+delhivery,truck,cosmetics,PRTN-441
+shadowfax,ev van,cosmetics,PRTN-442
+shadowfax,ev van,furniture,PRTN-443
+dhl,ev van,furniture,PRTN-444
+amazon logistics,scooter,automobile parts,PRTN-445
+xpressbees,ev van,fragile items,PRTN-446
+delhivery,van,automobile parts,PRTN-447
+shadowfax,van,clothing,PRTN-448
+delhivery,scooter,pharmacy,PRTN-449
+shadowfax,scooter,fragile items,PRTN-450
+ekart,ev bike,furniture,PRTN-451
+dhl,ev bike,furniture,PRTN-452
+delhivery,ev van,pharmacy,PRTN-453
+ecom express,ev bike,cosmetics,PRTN-454
+ecom express,ev van,furniture,PRTN-455
+blue dart,van,automobile parts,PRTN-456
+dhl,scooter,clothing,PRTN-457
+xpressbees,van,electronics,PRTN-458
+dhl,van,cosmetics,PRTN-459
+ekart,ev van,groceries,PRTN-460
+shadowfax,ev bike,electronics,PRTN-461
+amazon logistics,scooter,documents,PRTN-462
+ecom express,van,documents,PRTN-463
+delhivery,truck,furniture,PRTN-464
+ecom express,bike,automobile parts,PRTN-465
+blue dart,truck,electronics,PRTN-466
+ekart,van,cosmetics,PRTN-467
+blue dart,ev bike,electronics,PRTN-468
+ekart,van,pharmacy,PRTN-469
+ekart,truck,fragile items,PRTN-470
+shadowfax,truck,automobile parts,PRTN-471
+ecom express,ev van,automobile parts,PRTN-472
+dhl,van,automobile parts,PRTN-473
+dhl,van,groceries,PRTN-474
+fedex,truck,electronics,PRTN-475
+xpressbees,ev bike,electronics,PRTN-476
+amazon logistics,truck,groceries,PRTN-477
+dhl,ev van,cosmetics,PRTN-478
+amazon logistics,scooter,groceries,PRTN-479
+shadowfax,scooter,groceries,PRTN-480
+xpressbees,scooter,clothing,PRTN-481
+ecom express,van,cosmetics,PRTN-482
+delhivery,ev bike,fragile items,PRTN-483
+blue dart,ev van,fragile items,PRTN-484
+amazon logistics,ev van,clothing,PRTN-485
+amazon logistics,van,groceries,PRTN-486
