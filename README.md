@@ -12,14 +12,22 @@ GSLmart wants to understand how their e-commerce business is performing across a
 ### 🎯 Project Objective
 This data analytics project conducts a rigorous, end-to-end diagnosis of GSLmart's unified sales and logistics operations to isolate exact points of revenue leakage and customer churn. By transforming raw transactional records into a highly interactive, executive-ready dashboard.
 
-*📂 **Looking for the technical implementation?** You can view the raw [SQL CTE and Query Optimization scripts here](./queries.sql) and the [Python Data Cleaning and ETL scripts here](./etl_pipeline.py).*
+Insights and Recommendations are providoes on the following key areas :
+
+**Marketing Performance :** Analyzing how visitors move from discovery to purchase, checking conversion funnels and the health of each channel.\
+**Logistics and Fullfillment :** Tracking carrier operations, transit times, and failures, showing how distance and bad weather cause delivery delays.\
+**Product Performance :** Tracking sales, discounts, ratings, margins, and regional revenue.\
+**Customer Segmentation :** Using RFM modeling to group customers from loyal champions to at-risk accounts, helping target retention campaigns.
+
+An interactive Power BI dashboard can be downloaded [here]()
+A Jupyter notebook that contains Data cleaning and Transformatiion can be found [here]()
 
 ---
 
 ## 2. Unified Data Structure & Relationships
 To understand GSLmart's multi-layered operation, the analytical model unites front-end transactional tables with backend logistics records. 
 
-The entity relationship structure establishes a robust framework mapping storefront sessions, product category collections, customer segmentation metrics, and shipping aggregator logs:
+GSL Mart's database structure as seen below contains multiple tables:
 
 ```
                   [Customers] (ID, Location, Segment)
