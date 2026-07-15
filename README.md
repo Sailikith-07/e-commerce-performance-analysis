@@ -4,13 +4,13 @@
 
 **GSLmart India** is a fast-growing, multi-category D2C e-commerce storefront operating on a high-velocity Shopify Plus architecture. To scale domestic operations and optimize its retail supply chain across diverse geographic territories, the company integrates its core front-end transactional data with a robust backend Logistics Aggregator API middleware. This unified data ecosystem tracks everything from storefront user sessions, product category collections, and customer profiles to localized shipping carrier performance, delivery distance metrics, and environmental transit variables.
 
-### 🚨 The Business Problem: The Gross-to-Net Meltdown
-Despite exceptional top-line performance generating an impressive **₹10.12M in Gross Revenue**, GSLmart India faces a critical profitability crisis, retaining a meager **₹887.32K in Net Profit**. A staggering **91.2% of revenue leaks** out of the business before hitting the bottom line, driven primarily by heavy customer acquisition costs, a crippling **₹4.37M** spent on defensive discounting, and **₹5.0M** devoured by logistics and fulfillment expenses. 
 
-This margin erosion is severely compounded by a high **21.81% average delivery delay rate**, causing high-intent users to abandon checkouts, forcing first-time buyers into "Lost" or "Hibernating" lifecycle segments, and trapping the brand on an expensive marketing treadmill.
+### The Business Problem
+
+GSLmart wants to understand how their e-commerce business is performing across all segments, including marketing, logistics, and product performance. They are experiencing significant revenue leakage where a major portion of their gross sales is lost before reaching net profit. They need a thorough evaluation to uncover clear business insights across these operational areas to isolate exactly why they are losing revenue, eliminate friction, and improve performance.
 
 ### 🎯 Project Objective
-This data analytics project conducts a rigorous, end-to-end diagnosis of GSLmart India’s unified sales and logistics operations to isolate exact points of revenue leakage and customer churn. By transforming raw transactional records into a highly interactive, executive-ready dashboard, this study provides leadership with a concrete, data-backed strategic roadmap to eliminate checkout friction, optimize the regional shipping carrier hierarchy, execute tiered discounting, and maximize net profit margins.
+This data analytics project conducts a rigorous, end-to-end diagnosis of GSLmart India’s unified sales and logistics operations to isolate exact points of revenue leakage and customer churn. By transforming raw transactional records into a highly interactive, executive-ready dashboard.
 
 *📂 **Looking for the technical implementation?** You can view the raw [SQL CTE and Query Optimization scripts here](./queries.sql) and the [Python Data Cleaning and ETL scripts here](./etl_pipeline.py).*
 
