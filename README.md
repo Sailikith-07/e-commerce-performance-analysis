@@ -10,7 +10,7 @@
 GSLmart wants to understand how their e-commerce business is performing across all segments, including marketing, logistics, and product performance. They are experiencing significant revenue leakage where a major portion of their gross sales is lost before reaching net profit. They need a thorough evaluation to uncover clear business insights across these operational areas to isolate exactly why they are losing revenue, eliminate friction, and improve performance.
 
 ### 🎯 Project Objective
-This data analytics project conducts a rigorous, end-to-end diagnosis of GSLmart India’s unified sales and logistics operations to isolate exact points of revenue leakage and customer churn. By transforming raw transactional records into a highly interactive, executive-ready dashboard.
+This data analytics project conducts a rigorous, end-to-end diagnosis of GSLmart's unified sales and logistics operations to isolate exact points of revenue leakage and customer churn. By transforming raw transactional records into a highly interactive, executive-ready dashboard.
 
 *📂 **Looking for the technical implementation?** You can view the raw [SQL CTE and Query Optimization scripts here](./queries.sql) and the [Python Data Cleaning and ETL scripts here](./etl_pipeline.py).*
 
