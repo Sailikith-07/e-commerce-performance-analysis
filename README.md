@@ -2,7 +2,7 @@
 
 ## 1. Project Background & Overview
 
-**GSLmart India** is a fast-growing, multi-category D2C e-commerce storefront operating on a high-velocity Shopify Plus architecture. To scale domestic operations and optimize its retail supply chain across diverse geographic territories, the company integrates its core front-end transactional data with a robust backend Logistics Aggregator API middleware. This unified data ecosystem tracks everything from storefront user sessions, product category collections, and customer profiles to localized shipping carrier performance, delivery distance metrics, and environmental transit variables.
+**GSLmart** is a fast-growing, multi-category D2C e-commerce storefront operating on a high-velocity Shopify Plus architecture. To scale domestic operations and optimize its retail supply chain across diverse geographic territories, the company integrates its core front-end transactional data with a robust backend Logistics Aggregator API middleware. This unified data ecosystem tracks everything from storefront user sessions, product category collections, and customer profiles to localized shipping carrier performance, delivery distance metrics, and environmental transit variables.
 
 
 ### The Business Problem
