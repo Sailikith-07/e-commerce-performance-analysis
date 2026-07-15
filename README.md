@@ -33,9 +33,9 @@ The entity relationship structure establishes a robust framework mapping storefr
 
 ## 3. Executive Summary (CEO Dashboard)
 
-An analysis of GSLmart’s performance metrics indicates that **logistics costs, cart abandonment, and customer churn are the primary drivers of margin erosion**, rather than a lack of market demand. 
+An analysis of GSLmart’s performance metrics indicates that **logistics costs, total discounts, and customer churn are the primary drivers of margin erosion**, rather than a lack of market demand. 
 
-*   **Logistics is the Primary Profit Leak:** At **₹5.0M**, logistics costs devour nearly half of gross revenue, outstripping the heavy **₹4.37M** spent on discounting. 
+*   **Primary Profit Leaks:** A **₹5.0M** logistics costs devour nearly half of gross revenue and a heavy **₹4.37M** spent on discounting are the main reasons for low net profit. 
 *   **Geographic Concentration Risk:** Customer activity is heavily concentrated, with the top three states (**Maharashtra, Madhya Pradesh, and Chhattisgarh**) driving **~₹3.1M** of total revenue.
 
 ```
@@ -66,14 +66,13 @@ An analysis of GSLmart’s performance metrics indicates that **logistics costs,
 *   **Weather Disruptions:** Stormy (34%) and rainy (32%) conditions drive 66% of controllable transit delays, revealing a clear need for weather-integrated predictive delivery buffers.
 
 ### 📦 Product Performance
-*   **High-Discount Revenue Leaks:** Products with an aggressive Revenue-to-Discount (R to D) ratio of ≤ 2.0 caused a severe ₹1.65M revenue loss because deep price cuts failed to scale order quantities past 75 units.
+*   **High-Discount Revenue Leaks:** Products with a revenue-to-discount ratio of 2.0 or less caused a ₹1.65M loss because heavy discounts didn’t boost sales beyond 75 units.
 *   **Category Margin Traps:** Books are the least profitable category with a meager ₹2K net profit due to high discount rates and high delivery costs, while Footwear (₹198K) and Home & Kitchen (₹179K) emerge as top profit drivers.
 *   **Regional Stream Dominance:** The West Region stands as the clear geographic winner, contributing a dominant 26% of GSLmart's total revenue streams across India.
 
 ### 👥 Customer Lifecycle & Retention
 *   **Stagnant Revenue Capital:** Over 60% of brand revenue (~₹6.1M) is locked away in inactive customer groups (Hibernating at ₹4.7M and Lost at ₹1.4M), highlighting an urgent need for targeted win-back campaigns over new acquisition spend.
-*   **Logistics-Driven Churn:** Courier service failures directly trigger customer disengagement, as the highest delivery delays are heavily concentrated among churned cohorts (Hibernating at 22.3% and Lost at 21.7% delay rates).
-
+*   **Logistics-Driven Churn:** Delivery failures make customers stop buying, as the worst delays are mostly among churned groups — with 22.3% in Hibernating and 21.7% in Lost customers.
 ---
 
 ## 5. Strategic Recommendations
@@ -84,12 +83,12 @@ An analysis of GSLmart’s performance metrics indicates that **logistics costs,
 
 ### 2. Fix Checkout Friction & High Cart Abandonment
 *   **Smooth out the Funnel:** Improve checkout loading speeds and simplify payment steps to reduce the **65% cart abandonment rate**.
-*   **Smart Promos:** Stop using flat, site-wide discounts. Switch to tiered promotions (e.g., *“Save ₹200 on orders over ₹2,500”*) to raise order values and offset shipping fees.
+*   **Smart Promos:** Stop giving flat discounts. Instead, use tiered offers like ‘Save ₹200 on orders over ₹2,500’ to increase order value and cover shipping costs.
 
 ### 3. Reform Product Pricing & Inventory Placement
 *   **Enforce Discount Limits:** Stop running promotions on products where the R to D ratio falls below 2.0 unless they clear a high-volume target of 75+ units.
 *   **Drop or Bundle Books:** Restructure the Books category by turning them into multi-item bundles to cover shipping fees, while putting more ad spend into Footwear and Home & Kitchen.
-*   **West Hub Inventory:** Store top-selling items directly in regional fulfillment centers out West to lower shipping distances and cut delivery delays.
+*   **West Hub Inventory:** Keep best-selling products in western regional centers to shorten shipping distance and reduce delivery delays.
 
 ### 4. Deploy Lifecycle Win-Back Campaigns
 *   **Target Inactive Buyers:** Launch re-engagement email campaigns specifically built for the **₹4.7M Hibernating customer pool**.
