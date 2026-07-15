@@ -19,8 +19,8 @@ Insights and Recommendations are providoes on the following key areas :
 **Product Performance :** Tracking sales, discounts, ratings, margins, and regional revenue.\
 **Customer Segmentation :** Using RFM modeling to group customers from loyal champions to at-risk accounts, helping target retention campaigns.
 
-An interactive Power BI dashboard can be downloaded [here]()
-A Jupyter notebook that contains Data cleaning and Transformatiion can be found [here]()
+An interactive Power BI dashboard can be downloaded [here](https://github.com/Sailikith-07/e-commerce-performance-analysis/blob/main/dashboard/E-commerce%20dashboard.pbix)\
+A Jupyter notebook that contains Data cleaning and Transformatiion can be found [here](https://github.com/Sailikith-07/e-commerce-performance-analysis/blob/main/notebooks/Data%20Cleaning%20and%20Transforming.ipynb)
 
 ---
 
@@ -29,14 +29,7 @@ To understand GSLmart's multi-layered operation, the analytical model unites fro
 
 GSL Mart's database structure as seen below contains multiple tables:
 
-```
-                  [Customers] (ID, Location, Segment)
-                       │
-                       └───► [Orders] (ID, Revenue, Discount%, Date) ◄─── [Products] (SKU, Category)
-                                │
-                                └───► [Logistics_Logs] (Carrier, Distance, Delivery_Status, Delay_Time)
-```
-
+![datamodel](https://github.com/Sailikith-07/e-commerce-performance-analysis/blob/main/Images/Data%20Model.png)
 ---
 
 ## 3. Executive Summary (CEO Dashboard)
@@ -46,19 +39,7 @@ An analysis of GSLmart’s performance metrics indicates that **logistics costs,
 *   **Primary Profit Leaks:** A **₹5.0M** logistics costs devour nearly half of gross revenue and a heavy **₹4.37M** spent on discounting are the main reasons for low net profit. 
 *   **Geographic Concentration Risk:** Customer activity is heavily concentrated, with the top three states (**Maharashtra, Madhya Pradesh, and Chhattisgarh**) driving **~₹3.1M** of total revenue.
 
-```
-+------------------+------------------+------------------+
-|  Gross Revenue   |  Logistics Spend  |    Net Profit    |
-|     ₹10.12M      |      ₹5.00M      |     ₹887.32K     |
-+------------------+------------------+------------------+
-|   Total Orders   |  Avg Delay Rate  |   Total Items    |
-|      6,000       |      21.81%      |       62K        |
-+------------------+------------------+------------------+
-```
-
-*(Note: Insert a clean, minimalist screenshot of your main Power BI or Tableau dashboard here)*  
-`![GSL Mart Executive Performance Dashboard](path_to_your_dashboard_image.png)`
-
+![Executive Summary](https://github.com/Sailikith-07/e-commerce-performance-analysis/blob/main/Images/Executive%20Summary.png)
 ---
 
 ## 4. Deep-Dive Insights
